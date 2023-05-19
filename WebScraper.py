@@ -23,7 +23,7 @@ http_headers = {
     'cache-control': 'max-age=0',
 }
 
-APY_KEY = 'FFFFFFFFFFFFFFFFFFFFFFFFF'
+APY_KEY = 'your apy key'
 
 solver = TwoCaptcha(APY_KEY)
 
